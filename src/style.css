@@ -1,0 +1,18 @@
+.filter-wrapper {
+    display: flex;
+    justify-content: center;
+
+    margin: 50px 0;
+}
+
+.filter-wrapper input{
+    width: 300px;
+}
+
+.table-wrapper {
+    height: 500px;
+    width: 100%;
+
+    padding: 0 15px;
+    box-sizing: border-box;
+}
